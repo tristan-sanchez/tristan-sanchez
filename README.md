@@ -122,16 +122,6 @@ Estamos construyendo **la comunidad INFINIA AI**: un espacio para compartir proy
 
 <br/><br/>
 
-<sub>Powered by</sub><br/>
-<a href="https://www.infinia.com.mx">
-<img src="assets/infinia-simbolo.png" height="34" alt="INFINIA AI">
-<br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/infinia-wordmark-blanco.png">
-  <img src="assets/infinia-wordmark-negro.png" height="13" alt="INFINIA AI">
-</picture>
-</a>
-<br/>
-<sub>Automatización · Inteligencia · Escalamiento</sub>
+<a href="https://www.infinia.com.mx"><img src="assets/pie.svg" width="100%" alt="Powered by INFINIA AI · Automatización, Inteligencia, Escalamiento"></a>
 
 </div>
